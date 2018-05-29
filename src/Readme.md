@@ -1,0 +1,1 @@
+This is a Translator program which allows to read the text from file and translate each word from selected or auto-detected language to selected target language.  
